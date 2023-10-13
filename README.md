@@ -2,4 +2,4 @@
 - 👀 I’m interested in Robotics, Embedded Systems and Machine Learning
 - 🌱 I’m currently learning ROS
 - 💞️ I’m looking to collaborate on Robotics Projects
-- 📫 How to reach me krishnagupta4104@gmail.com
+- 📫 How to reach me krishnaacademics2019@gmail.com
