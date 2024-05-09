@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krishna4104
 - 👀 I’m interested in Robotics, Embedded Systems and Machine Learning
-- 🌱 I’m currently learning ROS2
+- 🌱 I’m currently learning and growing as Junior Embedded Engineer
 - 💞️ I’m looking to collaborate on Robotics Projects
 - 📫 How to reach me krishnaacademics2019@gmail.com
